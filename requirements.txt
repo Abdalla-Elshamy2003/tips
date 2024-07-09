@@ -1,0 +1,10 @@
+matplotlib==3.8.2
+numpy==2.0.0
+pandas==1.5.3
+Pillow==10.0.1
+Pillow==10.4.0
+plotly==5.17.0
+Requests==2.32.3
+seaborn==0.13.2
+streamlit==1.36.0
+~atplotlib==3.8.0
